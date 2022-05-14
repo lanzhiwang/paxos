@@ -42,7 +42,7 @@ paxos是什么？
 
 1. 各节点数据不一致，导致选主困难。
 
-![](/Users/huzhi/Desktop/paxos/images/04_01.png)
+![](./images/04_01.png)
 
 2. 当 slave 节点数据可读时，更新数据之后，连续两次读取数据可能不一致。
 
